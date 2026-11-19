@@ -1,3 +1,3 @@
 FOOD DELIVERY 
 
-LIVE URL LINK:https://github.com/invinsiblesri/FSWD-EX-2-A-FOOD-DELIVERY
+LIVE URL LINK:https://food-delivery-dq4ky7lxb-suchithra5.vercel.app
